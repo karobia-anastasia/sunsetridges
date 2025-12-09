@@ -43,7 +43,7 @@ export const Navbar = () => {
               />
           <div className="text-white">
             <p className="font-serif text-2xl font-bold italic tracking-tight">Sunset Ridge</p>
-            <p className="text-sky-300 text-xs tracking-widest uppercase font-light">Hotel & Resort</p>
+            <p className="text-sky-300 text-xs tracking-widest uppercase font-light"> Resort</p>
           </div>
         </a>
 

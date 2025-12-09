@@ -36,7 +36,7 @@ export const Hero = () => {
             Sunset Ridge
           </span>
           <span className="block text-lg md:text-xl mt-4 tracking-[0.25em] font-sans font-light uppercase">
-            Hotel & Resort
+            Resort
           </span>
         </h1>
 

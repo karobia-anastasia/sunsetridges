@@ -23,7 +23,7 @@ export const Footer = () => {
      <div className="absolute inset-0 bg-[#557D96]" />
 
       <div className="container-resort section-padding relative z-10 pb-12">
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12 ">
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="flex items-center gap-3 mb-6">
