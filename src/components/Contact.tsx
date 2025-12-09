@@ -66,7 +66,7 @@ export const Contact = () => {
             </div>
 
             {/* Promo Box */}
-            <div className="bg-primary p-6 text-primary-foreground">
+            <div className="bg-[#557D96] p-6 text-primary-foreground">
               <p className="text-xs tracking-[0.2em] uppercase opacity-80 mb-2">Special Offer</p>
               <p className="font-serif text-xl italic mb-3">15% Off Your First Stay</p>
               <p className="text-sm opacity-85 font-light mb-4">
