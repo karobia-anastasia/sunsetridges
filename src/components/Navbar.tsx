@@ -35,11 +35,12 @@ export const Navbar = () => {
       <nav className="container-resort mx-auto flex items-center justify-between px-6 lg:px-12">
         {/* Logo - Bigger & Better */}
         <a href="#home" className="flex items-center gap-4 hover:scale-105 transition-transform">
-          <img
-            src={logo}
-            alt="Sunset Ridge Kiambu Resort"
-            className="h-14 w-14 rounded-full object-cover ring-4 ring-sky-400/30 shadow-xl"
-          />
+    
+                <img
+                src={logo}
+                alt="Sunset Ridge Kiambu Resort"
+                className="h-14 w-14 rounded-full object-cover drop-shadow-lg"
+              />
           <div className="text-white">
             <p className="font-serif text-2xl font-bold italic tracking-tight">Sunset Ridge</p>
             <p className="text-sky-300 text-xs tracking-widest uppercase font-light">Hotel & Resort</p>
