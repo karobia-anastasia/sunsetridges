@@ -32,7 +32,7 @@ export const Amenities = () => {
           className="w-full h-full object-cover"
         />
         {/* Sky-blue overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-sky-900/30 via-sky-900/20 to-sky-900/50" />
+        <div className="absolute inset-0 bg-gradient-to-b from-sky-950/20 via-sky-950/50 to-sky-950/30" />
       </div>
 
       {/* Content */}

@@ -20,7 +20,7 @@ export const Footer = () => {
   return (
     <footer className="relative text-primary-foreground overflow-hidden">
       {/* Blue background */}
-      <div className="absolute inset-0 bg-gradient-to-b from-sky-900 via-sky-950 to-sky-950 -z-10" />
+     <div className="absolute inset-0 bg-[rgb(85,125,150)]" />
 
       <div className="container-resort section-padding relative z-10 pb-12">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">

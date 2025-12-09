@@ -21,7 +21,7 @@ export const Hero = () => {
           className="w-full h-full object-cover"
         />
         {/* Blueish overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-sky-400/20 via-sky-600/50 to-sky-700/30" />
+        <div className="absolute inset-0 bg-gradient-to-b from-sky-950/20 via-sky-950/50 to-sky-900/30" />
       </div>
 
       {/* Content */}
