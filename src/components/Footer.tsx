@@ -33,12 +33,9 @@ export const Footer = () => {
                 className="h-12 w-12 rounded object-cover drop-shadow-lg"
               />
               <div>
-                <p className="font-serif text-xl font-medium italic drop-shadow-sm">
-                  Sunset Ridge
-                </p>
-                <p className="text-xs tracking-[0.2em] uppercase opacity-80">
-                  Hotel & Resort
-                </p>
+            <p className="font-serif text-2xl font-bold italic tracking-tight">Sunset Ridge</p>
+            <p className="text-sky-300 text-xs tracking-widest uppercase font-light">Hotel & Resort</p>
+
               </div>
             </div>
             <p className="text-primary-foreground/90 font-light leading-relaxed max-w-sm mb-6 drop-shadow-sm">
