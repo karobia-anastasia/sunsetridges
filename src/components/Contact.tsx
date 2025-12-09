@@ -49,17 +49,17 @@ export const Contact = () => {
                   </div>
                 </div>
                 <div className="flex gap-4">
-                  <Phone className="w-5 h-5 text-accent flex-shrink-0 mt-1" />
+                  <Mail className="w-5 h-5 text-accent flex-shrink-0 mt-1" />
                   <div>
-                    <p className="text-foreground font-medium mb-1">Phone</p>
-                    <p className="text-muted-foreground font-light">+254 700 000000</p>
+                    <p className="text-foreground font-medium mb-1">Email</p>
+                    <p className="text-muted-foreground font-light">Bookings@sunsetridge.co.ke</p>
                   </div>
                 </div>
                 <div className="flex gap-4">
                   <Mail className="w-5 h-5 text-accent flex-shrink-0 mt-1" />
                   <div>
                     <p className="text-foreground font-medium mb-1">Email</p>
-                    <p className="text-muted-foreground font-light">info@sunsetridgeresort.com</p>
+                    <p className="text-muted-foreground font-light">info@sunsetridge.co.ke</p>
                   </div>
                 </div>
               </div>
