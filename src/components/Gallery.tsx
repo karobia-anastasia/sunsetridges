@@ -1,6 +1,6 @@
 import heroImage from "@/assets/hero-resort.jpg";
 import roomDeluxe from "@/assets/room-deluxe.jpg";
-import roomVilla from "@/assets/room-villa.jpg";
+import roomVilla from "@/assets/interior-modern-comfortable-hotel-room.jpg";
 import roomPresidential from "@/assets/room-presidential.jpg";
 
 const galleryImages = [
