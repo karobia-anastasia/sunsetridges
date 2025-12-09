@@ -30,7 +30,7 @@ export const Footer = () => {
               <img
                 src={logo}
                 alt="Sunset Ridge Kiambu Resort"
-                className="h-16 w-16 rounded-full object-cover drop-shadow-lg"
+                className="h-14 w-14 rounded-full object-cover drop-shadow-lg"
               />
               <div>
             <p className="font-serif text-2xl font-bold italic tracking-tight">Sunset Ridge</p>
