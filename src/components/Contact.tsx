@@ -52,7 +52,7 @@ export const Contact = () => {
                   <Mail className="w-5 h-5 text-accent flex-shrink-0 mt-1" />
                   <div>
                     <p className="text-foreground font-medium mb-1">Email</p>
-                    <p className="text-muted-foreground font-light">Bookings@sunsetridge.co.ke</p>
+                    <p className="text-muted-foreground font-light">bookings@sunsetridge.co.ke</p>
                   </div>
                 </div>
                 <div className="flex gap-4">
