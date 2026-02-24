@@ -1,7 +1,7 @@
-import heroImage from "@/assets/hero-resort.jpg";
-import roomDeluxe from "@/assets/room-deluxe.jpg";
-import roomVilla from "@/assets/interior-modern-comfortable-hotel-room.jpg";
-import roomPresidential from "@/assets/room-presidential.jpg";
+import heroImage from "@/assets/image3.jpg";
+import roomDeluxe from "@/assets/image1.jpg";
+import roomVilla from "@/assets/image2.jpg";
+import roomPresidential from "@/assets/image3.jpg";
 
 const galleryImages = [
   { src: heroImage, alt: "Resort Exterior", span: "col-span-2 row-span-2" },

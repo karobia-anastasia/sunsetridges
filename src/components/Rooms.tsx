@@ -1,8 +1,8 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import roomDeluxe from "@/assets/room-deluxe.jpg";
-import roomVilla from "@/assets/man-enjoying-indoor-farming.jpg";
-import roomPresidential from "@/assets/room-presidential.jpg";
+import roomDeluxe from "@/assets/image3.jpg";
+import roomVilla from "@/assets/image2.jpg";
+import roomPresidential from "@/assets/image1.jpg";
 
 const rooms = [
   {
