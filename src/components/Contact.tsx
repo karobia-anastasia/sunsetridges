@@ -39,7 +39,6 @@ export const Contact = () => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "ngrok-skip-browser-warning": "69420", // Added to bypass ngrok warning
         },
         body: JSON.stringify(payload),
       });
