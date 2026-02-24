@@ -35,7 +35,7 @@ export const Contact = () => {
         host: "zoho.com",
       };
 
-      const response = await fetch("https://7500-102-209-56-155.ngrok-free.app/contact", {
+      const response = await fetch("https://mailer-d1cl.vercel.app/api/handler", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

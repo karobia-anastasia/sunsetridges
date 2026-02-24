@@ -26,7 +26,7 @@ export const Hero = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch("https://7500-102-209-56-155.ngrok-free.app/availability", {
+      const response = await fetch("https://mailer-d1cl.vercel.app/api/handler", {
         method: "GET",
         headers: {
           "ngrok-skip-browser-warning": "69420",
