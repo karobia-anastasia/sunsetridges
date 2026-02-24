@@ -26,12 +26,16 @@ export const Hero = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch("https://mailer-d1cl.vercel.app/api/handler", {
-        method: "GET",
-        headers: {
-          "ngrok-skip-browser-warning": "69420",
-        },
-      });
+
+
+      const response = await fetch("https://mailer-d1cl.vercel.app/handler", { // Remove '/api'
+  method: "GET",
+  headers: {
+    // You can keep this, but since you are on Vercel, 
+    // it's better to remove it unless you have a specific reason to keep it.
+    "Content-Type": "application/json", 
+  },
+});
 
       if (!response.ok) throw new Error("Server error");
 
