@@ -21,7 +21,7 @@ export const About = () => {
                 alt="Sunset Ridge"
                 className="w-20 h-20 object-cover mb-3"
               />
-              <p className="font-serif text-lg italic text-foreground">Since 2009</p>
+              <p className="font-serif text-lg italic text-foreground">Book, Enjoy</p>
             </div>
           </div>
 
