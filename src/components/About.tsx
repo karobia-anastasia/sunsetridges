@@ -1,4 +1,4 @@
-import roomVilla from "@/assets/man-enjoying-indoor-farming.jpg";
+import roomVilla from "@/assets/img1 (4).jpeg";
 import logo from "@/assets/logo.jpeg";
 
 export const About = () => {

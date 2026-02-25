@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/swimming-pool-beach-luxury-hotel-type-entertainment-complex-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey.jpg";
+import heroImage from "@/assets/img1 (5).jpeg";
 import { useState } from "react";
 import { Calendar, Users, ChevronDown } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
