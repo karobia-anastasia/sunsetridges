@@ -8,7 +8,7 @@ import {
   Sparkles, 
   Calendar 
 } from "lucide-react";
-import heroImage from "@/assets/hero-resort.jpg";
+import heroImage from "@/assets/img1 (3).jpeg";
 
 const amenities = [
   { icon: Utensils, title: "Fine Dining" },
